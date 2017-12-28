@@ -1,0 +1,33 @@
+/* 添加 CSS */
+.card {
+  border:1px solid #ccc;
+  width: 340px;
+  margin: 5px auto;
+  box-shadow: 10px 10px 5px #ddd;
+}
+.title {
+  margin: 10px 20px;
+}
+.pic {
+  border: 1px solid #ccc;
+  width:300px;
+  margin: 10px 20px;
+}
+.selector {
+  width: 300px;
+  border: 1px solid #ccc;
+  margin: 10px 20px;
+}
+.selector p {
+  margin: 20px 10px;
+}
+.selector .sub-title {
+  font-style:italic;
+}
+ul li {
+  list-style-type: none;
+  margin: 10px 0 0 -30px;
+}
+ul li span{
+  font-weight: bold;
+}
